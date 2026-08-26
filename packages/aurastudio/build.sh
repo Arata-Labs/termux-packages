@@ -1,9 +1,9 @@
-TERMUX_PKG_HOMEPAGE=https://github.com/Arata-Labs/aurastudio-termux
+TERMUX_PKG_HOMEPAGE=https://github.com/Arata-Labs/AuraStudio
 TERMUX_PKG_DESCRIPTION="AuraStudio CLI — Android development tool suite for Termux"
 TERMUX_PKG_LICENSE="MIT"
 TERMUX_PKG_MAINTAINER="Arata Labs <github.com/Arata-Labs>"
-TERMUX_PKG_VERSION=1.2
-TERMUX_PKG_SRCURL=https://github.com/Arata-Labs/aurastudio-termux/archive/refs/heads/main.tar.gz
+TERMUX_PKG_VERSION=1.5
+TERMUX_PKG_SRCURL=https://github.com/Arata-Labs/AuraStudio/archive/refs/tags/v1.5.tar.gz
 TERMUX_PKG_SHA256=skip
 TERMUX_PKG_DEPENDS="bash, curl, git, unzip, tar, findutils, sed, grep, gawk, openjdk-21"
 TERMUX_PKG_BUILD_IN_SRC=true
