@@ -4,8 +4,8 @@ TERMUX_PKG_LICENSE="MIT"
 TERMUX_PKG_MAINTAINER="Arata Labs <github.com/Arata-Labs>"
 TERMUX_PKG_VERSION=1.5
 TERMUX_PKG_SRCURL=https://github.com/Arata-Labs/AuraStudio/archive/refs/tags/v1.5.tar.gz
-TERMUX_PKG_SHA256=skip
-TERMUX_PKG_DEPENDS="bash, curl, git, unzip, tar, findutils, sed, grep, gawk, openjdk-21"
+TERMUX_PKG_SHA256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+TERMUX_PKG_DEPENDS="bash, curl, git, unzip, tar, findutils, sed, grep, gawk, which"
 TERMUX_PKG_BUILD_IN_SRC=true
 TERMUX_PKG_AUTO_UPDATE=false
 
